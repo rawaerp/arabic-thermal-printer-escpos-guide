@@ -76,5 +76,13 @@ reliably. Label printers speak TSPL/ZPL rather than ESC/POS — a different guid
 RAWA prints Arabic receipts and kitchen tickets exactly this way (network, USB and Bluetooth) and supports standard
 80 mm ESC/POS printers; hardware questions: sales@rawaerp.com. More: <https://rawaerp.com/guide/pos-hardware-jordan>.
 
+## Further reading
+
+- [Arabic ESC/POS reference paper (Telegraph)](https://telegra.ph/Arabic-on-ESCPOS-thermal-printers-a-reference-for-reliable-receipts-and-kitchen-tickets-11-09)
+- [Gist: Arabic ESC/POS fix](https://gist.github.com/rawaerp/5ed4e3c165af1937ce8431fc2b661391)
+- [Research portal](https://rawaerp.github.io/)
+- [10 criteria for choosing a restaurant POS in Jordan](https://rawaerp.com/guide/restaurant-pos-jordan-10-criteria)
+- [Hardware guide](https://rawaerp.com/guide/pos-hardware-jordan)
+
 ---
 Licence: text CC BY 4.0, code MIT. Different model behaves differently? Open an issue with the model name and what you saw.
